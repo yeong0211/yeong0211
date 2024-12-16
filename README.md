@@ -14,11 +14,11 @@
 #### ⭐TECH STACK
 <p>
   <img src="https://img.shields.io/badge/JAVA-FF6600.svg?style=flat-square&logo=openjdk&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=SpringBoot&logoColor=FFFFFF"/>
+<!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=FFFFFF"/> -->
+<!--   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=SpringBoot&logoColor=FFFFFF"/> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
+<!--   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=FFFFFF"/> -->
+<!--   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=FFFFFF"/> -->
 </p>
 <br><br>
 
